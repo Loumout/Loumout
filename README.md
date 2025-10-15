@@ -5,11 +5,7 @@
 
 - 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **Game Server Project**
-
-- 🤝 I’m looking for help with **Fivem Server**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **discord: loumout**
 
